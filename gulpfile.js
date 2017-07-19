@@ -58,5 +58,5 @@ gulp.task('style', () => {
 gulp.task('default', ['clean'], () => {
   run('script', 'style')
   gulp.watch('./src/pell.scss', ['style'])
-  gulp.watch('./src/pell.js', ['script'])
+  gulp.watch('./src/*.js', ['script'])
 })

@@ -1,5 +1,3 @@
-<img src="./logo.png" width="256" alt="Logo">
-
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 > pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
@@ -7,7 +5,7 @@
 Live demo: [https://jaredreich.com/pell](https://jaredreich.com/pell)
 
 [![Live demo](/demo.gif?raw=true "Demo")](https://jaredreich.com/pell)
-
+<!-- 
 ## Comparisons
 
 | library       | size (min+gzip) | size (min) | jquery | bootstrap |
@@ -18,7 +16,7 @@ Live demo: [https://jaredreich.com/pell](https://jaredreich.com/pell)
 | ckeditor      | 163kB           | 551kB      |        |           |
 | summernote    | 26kB            | 93kB       | x      | x         |
 | froala        | 52kB            | 186kB      | x      |           |
-| tinymce       | 157kB           | 491kB      | x      |           |
+| tinymce       | 157kB           | 491kB      | x      |           | -->
 
 ## Features
 
@@ -41,7 +39,7 @@ Current actions:
 - Link
 - Image
 
-Other possible future actions:
+<!-- Other possible future actions:
 - Justify Center
 - Justify Full
 - Justify Left
@@ -54,7 +52,7 @@ Other possible future actions:
 - Outdent
 - Clear Formatting
 - Undo
-- Redo
+- Redo -->
 
 ## Browser Support
 
@@ -66,11 +64,6 @@ Other possible future actions:
 
 ## Installation
 
-#### npm:
-
-```bash
-npm install --save pell
-```
 
 #### HTML:
 
